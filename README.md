@@ -1,0 +1,2 @@
+# uncrustify
+my uncrustify config
